@@ -1,3 +1,5 @@
 .idea
 .gradle
 *.log
+!**src/main/**
+!**src/test/**
